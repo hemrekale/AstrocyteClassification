@@ -1,5 +1,3 @@
-setwd('C:\\HEK\\Dewpoint\\Code')
-
 library(keras)
 library(reticulate)
 #library(imager)
